@@ -170,9 +170,6 @@ Calibration runs in a separate thread that calls
 finishes. During calibration the control mode is temporarily locked; when
 the run ends the previous mode is restored.
 
-The HTTP API exposed by the BC firmware is documented in
-[bc-device-api.md](bc-device-api.md).
-
 ## Tips
 
 - Pin **Manual Power** to your Domoticz dashboard to quickly dial in a fixed
